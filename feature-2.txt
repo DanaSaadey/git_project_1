@@ -1,0 +1,2 @@
+file feature-2
+file feature-2 changed
